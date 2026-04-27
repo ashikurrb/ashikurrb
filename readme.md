@@ -20,34 +20,54 @@ I believe great products are not only functional — they should feel seamless, 
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Languages
-- JavaScript  
-- TypeScript  
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 - React.js  
 - Next.js  
 - Tailwind CSS  
 - Framer Motion  
+- JavaScript  
+- TypeScript  
 
-### ⚙️ Backend & Database
+### 🎯 Design
+- Figma  
+- Pixel-perfect UI to Code  
+
+</td>
+
+<td valign="top" width="33%">
+
+### ⚙️ Backend
 - Node.js  
 - Express.js  
-- Prisma  
-- PostgreSQL  
+- Nest.js  
 
-### 🎯 Design & Product
-- Figma  
-- Pixel-perfect UI to production-ready code  
 
-### 🖥️ Systems & Infrastructure
+### 🧠 Database 
+- PostgreSQL 
+	- Prisma  
+- MongoDB
+	- mongoose
+
+</td>
+<td valign="top" width="33%">
+
+### 🖥️ Systems
 - Linux (Ubuntu, Debian)  
 - VPS Architecture  
 - Server Management  
 
-### 🧰 Productivity Tools
+### 🧰 Tools
+- Figma
 - Notion  
 - Slack  
+</td>
+</tr>
+</tr>
+</table>
 
 ---
 
