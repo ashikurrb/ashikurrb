@@ -6,7 +6,7 @@
 
 I'm passionate about building minimalist, industry-standard, and pixel-perfect digital experiences. At ThoughtHub, our philosophy is simple: **We don't just build, we craft.** ## 🛠️ Tech Stack & Tools
 
-* **Frontend:** Next.js, Tailwind CSS (v4), Shadcn UI
+* **Frontend:** Next.js, Tailwind CSS, Shadcn UI
 * **Backend & Database:** Node.js, Prisma
 * **Design:** Figma (translating pixel-perfect designs directly to functional code)
 * **Systems & Environment:** Linux (Ubuntu), VPS architecture
