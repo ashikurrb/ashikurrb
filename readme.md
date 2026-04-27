@@ -25,7 +25,7 @@ I'm passionate about building minimalist, industry-standard, and pixel-perfect d
 
 * **Website:** [ThoughtHub](#)
 * **LinkedIn:** [/in/ashikurrb](#) 
-* **Email:** ashikurrb@example.com
+* **Email:** ashikurrb@outlook.com
 
 ---
 <p align="center">
