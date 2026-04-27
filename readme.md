@@ -11,7 +11,7 @@ I'm passionate about building minimalist, industry-standard, and pixel-perfect d
 * **Design:** Figma (translating pixel-perfect designs directly to functional code)
 * **Systems & Environment:** Linux (Ubuntu), VPS architecture
 * **Tools:** Notion, Slack
-* 
+
 ## 🚀 What I'm Currently Working On
 
 * Leading development at **ThoughtHub**, an agency specializing in web/mobile apps, UI/UX design, and IT consultancy.
