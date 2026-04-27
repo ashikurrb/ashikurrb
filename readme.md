@@ -1,15 +1,20 @@
 # Hi there, I'm Ashikur Rahman Bhuiyan 👋
 
-**Full Stack Developer | Systems Administrator | Founder & CEO at ThoughtHub**
+**Full Stack Developer | Systems Administrator | Founder & CEO at [ThoughtHub](https://thoughthubhq.com)**
 
 📍 Dhaka, Bangladesh
 
-I'm passionate about building minimalist, industry-standard, and pixel-perfect digital experiences. At ThoughtHub, our philosophy is simple: **We don't just build, we craft.** ## 🛠️ Tech Stack & Tools
+I'm passionate about building minimalist, industry-standard, and pixel-perfect digital experiences. At ThoughtHub, our philosophy is simple: 
 
+	We don't just build, we craft.
+
+ ## 🛠️ Tech Stack & Tools
+
+* **Language:** JavaScript, TypeScript
 * **Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion
 * **Backend & Database:** Node.js, Express.js, Prisma, PostgreSQL
 * **Design:** Figma (translating pixel-perfect designs directly to functional code)
-* **Systems & Environment:** Linux (Ubuntu), VPS architecture
+* **Systems & Environment:** Linux (Ubuntu, Debian), VPS architecture
 * **Tools:** Notion, Slack
 
 ## 🚀 What I'm Currently Working On
@@ -23,8 +28,8 @@ I'm passionate about building minimalist, industry-standard, and pixel-perfect d
 
 ## 📫 Let's Connect
 
-* **Website:** [ThoughtHub](#)
-* **LinkedIn:** [/in/ashikurrb](#) 
+* **Website:** [Portfolio](https://ashikurrb.vercel.app)
+* **LinkedIn:** [ashikurrb](https://linkedin.com/in/ashikurrb) 
 * **Email:** ashikurrb@outlook.com
 
 ---
